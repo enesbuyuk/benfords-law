@@ -9,7 +9,7 @@ This C project explores Benford's Law, a statistical phenomenon that describes t
 <h3>1. Clone the Repository:</h3>
 
 ```bash
-git clone https://github.com/your-username/benfords-law-c.git
+git clone https://github.com/enesbuyuk/benfords-law.git
 ```
 
 <h3>2. Compile the Code:</h3>
