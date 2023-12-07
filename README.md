@@ -1,4 +1,4 @@
-<h1># Benford's Law in C</h1>
+# Benford's Law in C
 <p align="center"><img src="https://github.com/enesbuyuk/benfords-law/assets/82279640/b0ffaafb-ce20-44d5-991d-89a45f1a2112"></p>
 
 <h2>Overview</h2>
